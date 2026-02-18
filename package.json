@@ -2,13 +2,14 @@
   "name": "mesto",
   "description": "Six project in RTU MIREA",
   "version": "1.0.0",
-  "author": " <negeorgefloyd@gmail.com>",
+  "author": " <nn814921@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nedavi/six_pr"
+    "url": "git+https://github.com/Merami52/frontend_pr6"
   },
-  "homepage": "https://github.com/nedavi/empty",
+
+  "homepage": "https://github.com/Merami52",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
